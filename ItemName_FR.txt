@@ -1,0 +1,5 @@
+ItemName_FR = {
+	ItemName_Base.cruiserRoofrack1 = "Galerie de toit",
+	ItemName_Base.cruiserRoofrack2 = "Galerie de toit",
+	ItemName_Base.cruiserRoofrack3 = "Galerie de toit",
+}
